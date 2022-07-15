@@ -1,1 +1,3 @@
-curso de github avances
+curso de github avances, agrego nueva informacion post reset
+vamos a utilizar checkout para navegar en el tiempo
+segumimos en github probando comandos
