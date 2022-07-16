@@ -1,4 +1,11 @@
 curso de github avances, agrego nueva informacion post reset
 vamos a utilizar checkout para navegar en el tiempo
 segumimos en github probando comandos
+
+new
 esta linea se hizo en rama master y es para probar fusion merge con cabecera
+
+new2
+agrego una nueva rama que se llama cabecera
+agrego una nueva linea en cabecera para fusionarla con master
+
