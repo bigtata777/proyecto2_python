@@ -1,3 +1,4 @@
 curso de github avances, agrego nueva informacion post reset
 vamos a utilizar checkout para navegar en el tiempo
 segumimos en github probando comandos
+esta linea se hizo en rama master y es para probar fusion merge con cabecera
