@@ -2,3 +2,4 @@ curso de github avances, agrego nueva informacion post reset
 vamos a utilizar checkout para navegar en el tiempo
 segumimos en github probando comandos
 agrego una nueva rama que se llama cabecera
+agrego una nueva linea en cabecera para fusionarla con master
